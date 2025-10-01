@@ -1,0 +1,1 @@
+mkdir -p TP1/arquitectura/clase1 TP1/arquitectura/clase2 TP1/arquitectura/clase3 TP1/arquitectura/clase4 TP1/arquitectura/clase5 TP1/so/clase1 TP1/so/clase2 TP1/so/clase3 TP1/so/clase4 TP1/so/clase5 TP1/so/clase6
