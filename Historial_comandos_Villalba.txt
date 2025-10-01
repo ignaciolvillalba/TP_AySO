@@ -1,0 +1,190 @@
+ls
+sudo snap tree
+sudo snap install tree
+tree .
+mkdir -p servidorweb/{correos, paginas}/web{1..5}
+tree servidorweb
+tree servidorweb/
+ls
+cd paginas}/
+ls
+ls ..
+..
+cd ..
+ls
+vagrant destroy paginas}/
+destroy paginas}/
+rmdir paginas}/
+tree
+rmdir servidorweb/
+rmdir servidorweb/\{correos\,/
+rmdir servidorweb/
+ls
+tree
+mkdir -p servidorweb/{correos,paginas}/web{1..5}
+tree
+mkdir -p familia/{{mama,papa}/hijo{1..4},papa/perro
+tree
+mkdir -p paginas}/
+tree
+mkdir -p familia/{{mama,papa}/hijo{1..4},papa/perro}
+tree
+cd familia
+ls
+rmdir {mama
+rmdir \{mama/
+ls
+mama
+cd {mama
+ls
+delete
+cd ..
+man rmdir
+rmdir -p familia
+sudo rmdir -p familia
+sudo rmdir -rf familia
+sudo rm -rf familia
+tree
+mkdir -p familia/{{mama,papa}/hijo{1..4},papa/perro}
+ssh-keygen
+whoami
+cd home/vagrant
+ls
+cd home
+cd /home/vagrant
+ls
+cd
+pwd
+ls -la
+cd .ssh
+ls -la
+cat id_rsa.pub
+cd ..
+ls
+sudo apt install git
+git --version
+git clone git@github.com:ignaciolvillalba/TP_AySO
+ls -la
+cd TP_AySO/
+ls
+cd ..
+ls
+cd repogit/
+ls -la
+git@github.com:ignaciolvillalba/TP_AySO.git
+git clone git@github.com:ignaciolvillalba/TP_AySO.git
+cd ls
+ls
+cd TP_AySO/
+pwd
+ls -l
+cat /etc/mtab
+grep
+grep --help
+grep -i Syfs /etc/mtab > datos_sys.txt
+grep -i Syfs /etc/mtab
+grep -i syfs /etc/mtab
+grep -i sydfs /etc/mtab
+grep -i sysfs /etc/mtab
+grep -i Sysfs /etc/mtab > datos_sys.txt
+grep -i sysfs /etc/mtab > datos_sys.txt
+grep -i sysfs /etc/mtab
+ls -l
+cat datos_sys.txt 
+whoami
+echo "Usuario=$(whoami)" > datos_usuarios.txt
+ls 
+cat datos_usuarios.txt 
+git add .
+git config --global user.email "ignacioezequielvillalba1@gmail.com"
+git config --global user.name "ignaciolvillalba"
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt
+git commit -m "ADD: agregador 1er ejercicio sobre datos_usuarios.txt"
+git status
+git push
+cat etc/password
+cat etc/passwd
+cd home
+cd /home
+ls
+cd vagrant/
+ls
+cd .
+cd ubuntu
+ls la
+ls -la
+cd ..
+cd ubuntu
+cd repogit
+cd /vagrant/repogit
+cd vagrant/repogit
+cat /etc/passwd
+grep vagrant /etc/passwd
+grep vagrant /etc/passwd | awk -f: {print $5, $6} >> datos_usuarios.txt
+grep vagrant /etc/passwd | awk -F: {print $5, $6} >> datos_usuarios.txt
+grep vagrant /etc/passwd | awk -F: {print$5, $6} >> datos_usuarios.txt
+grep vagrant /etc/passwd | awk -F: "{print$5, $6}" >> datos_usuarios.txt
+grep vagrant /etc/passwd | awk -f: '{print $5, $6}' >> datos_usuarios.txt
+grep vagrant /etc/passwd | awk -F: '{print $5, $6}' >> datos_usuarios.txt
+cat datos_usuarios.txt 
+rm datos_usuarios.txt 
+ls -la
+echo "Usuario=$(whoami)" > datos_usuarios.txt
+git add .
+git status
+cat datos_usuarios.txt 
+grep vagrant /etc/passwd | awk -F: '{print $5, $6}' >> datos_usuarios.txt
+cat datos_usuarios.txt 
+git add
+git add .
+git clone git@github.com:ignaciolvillalba/TP_AySO.git
+move datos_usuarios.txt /TP_AySO
+mv datos_usuarios.txt /TP_AySO
+cd TP_AySO/
+sl
+ls
+cat datos_
+cat datos_usuarios.txt 
+git add .
+git status
+grep vagrant /etc/passwd | awk -F: '{print $5, $6}' >> datos_usuarios.txt
+cat datos_usuarios.txt 
+git add .
+git push
+git commit -m "feat: Añadiendo información del Usuario"
+git push
+ls -la
+rm README.md 
+git add README.md datos_usuario.txt
+git add README.md datos_usuarios.txt
+git commit -m "ADD: Añadiendo README y datos de usuario"
+git push
+ls
+pwd
+mkdir -p TP1/{arquitectura/{clase1,clase5},so/{clase1,clase6}}
+tree
+rm -p TP!
+rm --help
+rm -d TP!
+rm -d TP1
+rm -r TP1
+tree
+mkdir -p TP1/arquitectura/clase{1..5} TP1/so/clase{1..6}
+tree
+cd repogit/
+cd TP1
+cd TP_AySO/
+echo mkdir -p TP1/arquitectura/clase{1..5} TP1/so/clase{1..6} > script_dir.sh
+ls
+cat script_dir.sh 
+chmod +x script_dir.sh 
+git add .
+git commit -m "ADD: Añadiendo script"
+git push
+history -a
+cat /home/vagrant/.bash_history
+grep /home/vagrant/.bash_history > Historial_comandos_Villalba.txt
+ls
+cat Historial_comandos_Villalba.txt 
+rm Historial_comandos_Villalba.txt 
